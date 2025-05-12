@@ -1,3 +1,5 @@
 User-agent: *
+Disallow: /cdn-cgi/l/email-protection
 Allow: /
+
 Sitemap: https://construction.alwejhagroup.com/sitemap.xml
